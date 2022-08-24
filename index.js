@@ -36,24 +36,29 @@ const songs=[
 },
 {
     id: 'song7',
-    songName: 'Phir Kabhi.mp3',
+    songName: 'song6.mp3',
     artistName: 'Argit Shingh'
 },
 {
     id: 'song8',
-    songName: 'Lambiyaan Si Judaiyaan.mp3',
+    songName: 'song7.mp3',
     artistName: 'Argit shingh'
 },
 {
     id: 'song9',
-    songName: 'Darasal.mp3',
+    songName: 'song8.mp3',
     artistName: 'Atif Aslam'
 },
 {
     id: 'song10',
     songName: 'Remix.mp3',
     artistName: 'Owner Credits-9'
-}
+},
+{
+    id: 'song11',
+    songName: 'song10',
+    artistName: 'xyz'
+},
 
 ]
 

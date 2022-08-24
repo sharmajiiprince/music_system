@@ -11,43 +11,43 @@ const next=document.getElementById("next");
 const songs=[
 {
     id: 'song1',
-    songName: 'song1.mp3',
-    artistName: 'Owner Credits'
+    songName: 'chal ghar chalen.mp3',
+    artistName: 'Mithoon,Argit shingh'
 },
 {
     id: 'song2',
-    songName: 'song2.mp3',
-    artistName: 'Owner Credits-1' 
+    songName: 'coco cola tu.mp3',
+    artistName: 'Tonny kakkar' 
 },
 {
     id: 'song3',
-    songName: 'song3.mp3',
-    artistName: 'Owner Credits-3'
+    songName: 'kaun tujhe.mp3',
+    artistName: 'Palak Muchal'
 },
 {
     id: 'song5',
-    songName: 'song4.mp3',
-    artistName: 'Owner Credits-4'
+    songName: 'Jab Tak.mp3',
+    artistName: 'Armaan Malik'
 },
 {
     id: 'song6',
-    songName: 'song5.mp3',
-    artistName: 'Owner Credits-5'
+    songName: 'Ashiq Banaya Apne.mp3',
+    artistName: 'O2SRK'
 },
 {
     id: 'song7',
-    songName: 'song6.mp3',
-    artistName: 'Owner Credits-6'
+    songName: 'Phir Kabhi.mp3',
+    artistName: 'Argit Shingh'
 },
 {
     id: 'song8',
-    songName: 'song7.mp3',
-    artistName: 'Owner Credits-7'
+    songName: 'Lambiyaan Si Judaiyaan.mp3',
+    artistName: 'Argit shingh'
 },
 {
     id: 'song9',
-    songName: 'song8.mp3',
-    artistName: 'Owner Credits-8'
+    songName: 'Darasal.mp3',
+    artistName: 'Atif Aslam'
 },
 {
     id: 'song10',

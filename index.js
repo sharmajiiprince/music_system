@@ -16,22 +16,22 @@ const songs=[
 },
 {
     id: 'song2',
-    songName: 'coco cola tu.mp3',
+    songName: 'song2.mp3',
     artistName: 'Tonny kakkar' 
 },
 {
     id: 'song3',
-    songName: 'kaun tujhe.mp3',
+    songName: 'song3.mp3',
     artistName: 'Palak Muchal'
 },
 {
     id: 'song5',
-    songName: 'Jab Tak.mp3',
+    songName: 'song4.mp3',
     artistName: 'Armaan Malik'
 },
 {
     id: 'song6',
-    songName: 'Ashiq Banaya Apne.mp3',
+    songName: 'song5.mp3',
     artistName: 'O2SRK'
 },
 {
@@ -51,7 +51,7 @@ const songs=[
 },
 {
     id: 'song10',
-    songName: 'song9.mp3',
+    songName: 'Remix.mp3',
     artistName: 'Owner Credits-9'
 }
 

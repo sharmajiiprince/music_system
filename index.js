@@ -16,37 +16,37 @@ const songs=[
 },
 {
     id: 'song2',
-    songName: 'song2.mp3',
+    songName: 'song12.mp3',
     artistName: 'Tonny kakkar' 
 },
 {
     id: 'song3',
-    songName: 'song3.mp3',
+    songName: 'song19.mp3',
     artistName: 'Palak Muchal'
 },
 {
     id: 'song5',
-    songName: 'song4.mp3',
+    songName: 'song14.mp3',
     artistName: 'Armaan Malik'
 },
 {
     id: 'song6',
-    songName: 'song5.mp3',
+    songName: 'song15.mp3',
     artistName: 'O2SRK'
 },
 {
     id: 'song7',
-    songName: 'song6.mp3',
-    artistName: 'Argit Shingh'
+    songName: 'song16.mp3',
+    artistName: 'Argit Shingh..'
 },
 {
     id: 'song8',
-    songName: 'song7.mp3',
+    songName: 'song17.mp3',
     artistName: 'Argit shingh'
 },
 {
     id: 'song9',
-    songName: 'song8.mp3',
+    songName: 'song18.mp3',
     artistName: 'Atif Aslam'
 },
 {
